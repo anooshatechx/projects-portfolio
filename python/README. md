@@ -1,0 +1,25 @@
+# Python Projects
+
+This folder contains **all Python projects** I have built, organized by complexity.
+
+## Basic Projects
+- Mini-projects to practice Python fundamentals.
+- Folder: `basic-projects/`
+- Projects include:
+  - Calculator
+  - Even Odd Finder
+  - Multiplication Table Generator
+  - Number Guessing Game
+  - Contact Book
+  - Quiz Game
+  - Math Toolkit
+
+## Advanced Projects
+- More complex applications demonstrating applied Python skills.
+- Folder: `advanced-projects/`
+- Projects include:
+  - Bilingual Translator
+  - Book Recommender
+  - Movie Recommender
+  - Book Finder
+  - Weather Data Fetcher
