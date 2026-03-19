@@ -11,13 +11,13 @@ Mini-projects to practice Python fundamentals.
 
 Projects include:
 
-- [Calculator](basic-python-projects/calculator.py)– A simple calculator application
-- [Even Odd Finder](basic-python-projects/even_odd_finder.py)– Checks if a number is even or odd
-- [Multiplication Table Generator](basic-python-projects/multiplication_table.py)– Generates multiplication tables
-- [Number Guessing Game](basic-python-projects/number_guessing_game.py)– Interactive number guessing game
-- [Contact Book](basic-python-projects/contact_book.py)– Console-based contact manager
-- [Quiz Game](basic-python-projects/quiz_game.py)– Simple multiple-choice quiz game
-- [Math Toolkit](basic-python-projects/math_toolkit.py)– Small math utilities checker.
+- [Calculator](basic-python-projects/calculator.py) – A simple calculator application
+- [Even Odd Finder](basic-python-projects/even_odd_finder.py) – Checks if a number is even or odd
+- [Multiplication Table Generator](basic-python-projects/multiplication_table.py) – Generates multiplication tables
+- [Number Guessing Game](basic-python-projects/number_guessing_game.py) – Interactive number guessing game
+- [Contact Book](basic-python-projects/contact_book.py) – Console-based contact manager
+- [Quiz Game](basic-python-projects/quiz_game.py) – Simple multiple-choice quiz game
+- [Math Toolkit](basic-python-projects/math_toolkit.py) – Small math utilities checker.
 
 ---
 
