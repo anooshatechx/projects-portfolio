@@ -29,7 +29,5 @@ More complex applications demonstrating applied Python skills.
 Projects include:
 
 - **Bilingual Translator** – English ↔ Urdu translation tool
-- **Book Recommender** – Suggests books based on preferences
-- **Movie Recommender** – Suggests movies based on genres/ratings
-- **Book Finder** – Finds book information via API
+- **Book & Movie Explorer** – Give ratings of books based on preferences and movies. 
 - **Weather Data Fetcher** – Fetches real-time weather data via API
