@@ -30,4 +30,4 @@ Projects include:
 
 - [Bilingual Translator](intermediate-projects/bilingual-translator) – English ↔ Urdu translation tool
 - [Book & Movie Explorer](intermediate-projects/book-movie-explorer) – Give ratings of books based on preferences and movies. 
-- **Weather Data Fetcher** – Fetches real-time weather data via API
+- [Weather Data Fetcher](intermediate-projects/weather-fetcher) – Fetches real-time weather data via API
