@@ -11,13 +11,13 @@ Mini-projects to practice Python fundamentals.
 
 Projects include:
 
-- **Calculator** – A simple calculator application
-- **Even Odd Finder** – Checks if a number is even or odd
-- **Multiplication Table Generator** – Generates multiplication tables
-- **Number Guessing Game** – Interactive number guessing game
-- **Contact Book** – Console-based contact manager
-- **Quiz Game** – Simple multiple-choice quiz game
-- **Math Toolkit** – Small math utilities checker.
+- [Calculator](calculator.py)– A simple calculator application
+- [Even Odd Finder](even_odd_finder.py)– Checks if a number is even or odd
+- [Multiplication Table Generator](multiplication_table.py)– Generates multiplication tables
+- [Number Guessing Game](number_guessing_game.py)– Interactive number guessing game
+- [Contact Book](contact_book.py)– Console-based contact manager
+- [Quiz Game](quiz_game.py)– Simple multiple-choice quiz game
+- [Math Toolkit](math_toolkit.py)– Small math utilities checker.
 
 ---
 
@@ -28,6 +28,6 @@ More complex applications demonstrating applied Python skills.
 
 Projects include:
 
-- **Bilingual Translator** – English ↔ Urdu translation tool
-- **Book & Movie Explorer** – Give ratings of books based on preferences and movies. 
+- [Bilingual Translator](bilingual-translator) – English ↔ Urdu translation tool
+- [Book & Movie Explorer](book-movie-explorer) – Give ratings of books based on preferences and movies. 
 - **Weather Data Fetcher** – Fetches real-time weather data via API
