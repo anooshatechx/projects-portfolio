@@ -11,13 +11,13 @@ Mini-projects to practice Python fundamentals.
 
 Projects include:
 
-- [Calculator](calculator.py)– A simple calculator application
-- [Even Odd Finder](even_odd_finder.py)– Checks if a number is even or odd
-- [Multiplication Table Generator](multiplication_table.py)– Generates multiplication tables
-- [Number Guessing Game](number_guessing_game.py)– Interactive number guessing game
-- [Contact Book](contact_book.py)– Console-based contact manager
-- [Quiz Game](quiz_game.py)– Simple multiple-choice quiz game
-- [Math Toolkit](math_toolkit.py)– Small math utilities checker.
+- [Calculator](/basic-python-project/calculator.py)– A simple calculator application
+- [Even Odd Finder](/basic-python-project/even_odd_finder.py)– Checks if a number is even or odd
+- [Multiplication Table Generator](/basic-python-project/multiplication_table.py)– Generates multiplication tables
+- [Number Guessing Game](/basic-python-project/number_guessing_game.py)– Interactive number guessing game
+- [Contact Book](/basic-python-project/contact_book.py)– Console-based contact manager
+- [Quiz Game](/basic-python-project/quiz_game.py)– Simple multiple-choice quiz game
+- [Math Toolkit](/basic-python-project/math_toolkit.py)– Small math utilities checker.
 
 ---
 
@@ -28,6 +28,6 @@ More complex applications demonstrating applied Python skills.
 
 Projects include:
 
-- [Bilingual Translator](bilingual-translator) – English ↔ Urdu translation tool
-- [Book & Movie Explorer](book-movie-explorer) – Give ratings of books based on preferences and movies. 
+- [Bilingual Translator](/intermediate-projects/bilingual-translator) – English ↔ Urdu translation tool
+- [Book & Movie Explorer](intermediate-projects/book-movie-explorer) – Give ratings of books based on preferences and movies. 
 - **Weather Data Fetcher** – Fetches real-time weather data via API
