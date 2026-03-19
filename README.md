@@ -10,7 +10,9 @@ These projects demonstrate my **hands-on practice, problem-solving, and applied 
 
 ## Folder Overview
 
-- [Python](python/) – Contains all Python projects, from basic to advanced applications.
+- [Python](python/) – Contains all Python projects.
+- [Basic Python Projects](basic-python-projects)
+- [Intermediate Projects](intermediate-projects) 
 
 - [Data Analysis](data-analysis) - Future pandas, numpy and matplotlib projects. 
  
