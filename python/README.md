@@ -7,7 +7,7 @@ This contains **all Python projects** I have built, organized by complexity.
 ## Basic Projects
 
 Mini-projects to practice Python fundamentals.  
-**Folder:** [Basic Projects](basic-python-projects) 
+**Folder:** [Basic Python Projects](basic-python-projects) 
 
 Projects include:
 
