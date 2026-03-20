@@ -2,7 +2,7 @@
 
 Welcome to my **Projects Portfolio**! 🚀  
 
-This repository showcases **mini-projects** I’ve created while learning Python, data analysis, and AI/ML skills. 
+This repository showcases **all the projects** I’ve created while learning Python, data analysis, and AI/ML skills. 
 
 These projects demonstrate my **hands-on practice, problem-solving, and applied learning** from courses and self-study.  
 
